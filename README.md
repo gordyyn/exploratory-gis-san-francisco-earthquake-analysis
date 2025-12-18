@@ -7,7 +7,7 @@ Exploratory geospatial analysis of San Francisco's most vulnerable zones when an
 **Author:** Gordon Yuan  
 **Date:** December 2025  
 
-<img width="891" height="692" alt="image" src="https://github.com/user-attachments/assets/1a080f76-c6b8-49c7-91e8-98894b6e5846" />
+<img width="898" height="691" alt="image" src="https://github.com/user-attachments/assets/c08e071f-6ca3-41b8-9444-9c9ea032dc79" />
 
 ## 📊 Project Overview
 
@@ -72,7 +72,7 @@ neighborhoods where population density, poor HOLC grades, and soft-story buildin
 
 # Map 3
 
-<img width="898" height="693" alt="image" src="https://github.com/user-attachments/assets/ddb22b24-eb08-4f09-a23a-cda5bfffc494" />
+<img width="899" height="688" alt="image" src="https://github.com/user-attachments/assets/845e8c41-bc06-4b89-8b72-d9f07feb3730" />
 
 ## 📊 Project Overview
 This final map looks at how emergency response coverage and transportation infrastructure are 
